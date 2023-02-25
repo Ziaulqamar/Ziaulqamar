@@ -8,6 +8,8 @@
 
 Looking forward to have a chat with you.
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines= Hi, Zia Ul Qamar here;Full-Stack Mobile and Web Developer)](https://git.io/typing-svg)
+
 <!---
 Ziaulqamar/Ziaulqamar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
