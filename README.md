@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ziaulqamar
 - 👀 I’m interested in Programming and Full Stack Development
-- 🌱 I’m currently working in Flutter, Dart and NodeJs.
+- 🌱 I working in Java, Kotlin, Swift, Dart(Flutter), Python, ReactJS, Typescript, and NodeJs.
 - 💞️ I’m looking to collaborate on any cool and practical project that helps people change their lives
 - 📫 How to reach me :
 - reach me at Fiverr https://www.fiverr.com/ziajutt?up_rollout=true
