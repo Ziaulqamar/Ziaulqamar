@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Ziaulqamar
-- 👀 I’m interested in Programming and Full Stack Development
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=G&duration=2500&pause=500&width=435&lines=Hi%2C+Zia+Ul+Qamar+here.;Full+Stack+Mobile+and+Web+Developer.)](https://git.io/typing-svg)
 - 🌱 I working in Java, Kotlin, Swift, Dart(Flutter), Python, ReactJS, Typescript, and NodeJs.
 - 💞️ I’m looking to collaborate on any cool and practical project that helps people change their lives
 - 📫 How to reach me :
@@ -8,7 +7,7 @@
 
 Looking forward to have a chat with you.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=G&duration=2500&pause=500&width=435&lines=Hi%2C+Zia+Ul+Qamar+here.;Full+Stack+Mobile+and+Web+Developer.)](https://git.io/typing-svg)
+
 
 <!---
 Ziaulqamar/Ziaulqamar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
