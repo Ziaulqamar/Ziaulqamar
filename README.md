@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=G&duration=2500&pause=500&width=435&lines=Hi%2C+Zia+Ul+Qamar+here.;Full+Stack+Mobile+and+Web+Developer.)](https://git.io/typing-svg)
-- 🌱 I working in Java, Kotlin, Swift, Dart(Flutter), Python, ReactJS, Typescript, and NodeJs.
-- 💞️ I’m looking to collaborate on any cool and practical project that helps people change their lives
+- [![Typing SVG](https://readme-typing-svg.demolab.com?font=G&duration=2500&pause=500&width=435&lines=Hi%2C+Zia+Ul+Qamar+here.;Full+Stack+Mobile+and+Web+Developer.)](https://git.io/typing-svg)
+- 🌱 I work in Java, Kotlin, Swift, Dart(Flutter), Python, ReactJS, NodeJs, Typescript, and Javascript.
+- 💞️ I’m looking to collaborate on any cool and practical project that makes an impact.
 - 📫 How to reach me :
 - reach me at Fiverr https://www.fiverr.com/ziajutt?up_rollout=true
 - reach me at Upwork https://www.upwork.com/freelancers/~0155e19a83a4ae1234
