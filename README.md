@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=G&duration=2500&pause=500&width=435&lines=Hi%2C+Zia+Ul+Qamar+here.;Full+Stack+Mobile+and+Web+Developer.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=G&duration=2500&pause=500&width=435&lines=Hi%2C+Zia+Ul+Qamar+here.;Full+Stack+Mobile+Developer.)
 - 🌱 I work in Java, Kotlin, Swift, Dart(Flutter), Python, ReactJS, NodeJs, Typescript, and Javascript.
 - 💞️ I’m looking to collaborate on any cool and practical project that makes an impact.
 - 📫 How to reach me :
