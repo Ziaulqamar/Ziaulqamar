@@ -5,7 +5,7 @@
 - reach me at Fiverr https://www.fiverr.com/ziajutt?up_rollout=true
 - reach me at Upwork https://www.upwork.com/freelancers/~0155e19a83a4ae1234
 
-Looking forward to have a chat with you.
+Looking forward to having a chat with you.
 
 
 
