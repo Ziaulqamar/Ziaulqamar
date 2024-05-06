@@ -1,5 +1,5 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=G&duration=2500&pause=500&width=435&lines=Hi%2C+Zia+Ul+Qamar+here.;Full+Stack+Mobile+Developer.)
-- 🌱 I work in Java, Kotlin, SwiftUI, Dart(Flutter), Python, ReactJS, NodeJs, Typescript, and Javascript.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=G&duration=2500&pause=500&width=435&lines=Hi%2C+Zia+Ul+Qamar+here.;Mobile+Developer.)
+- 🌱 I work in SwiftUI and Dart(Flutter)
 - 💞️ I’m looking to collaborate on any cool and practical project that makes an impact.
 - 📫 How to reach me :
 - reach me at Fiverr https://www.fiverr.com/ziajutt?up_rollout=true
